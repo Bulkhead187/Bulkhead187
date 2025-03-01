@@ -1,7 +1,4 @@
-<div align="left">
-  [Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187&label=Repositories&query=$.public_repos&color=blue&logo=github)  
-  [Newest Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187/repos?sort=updated&per_page=1&label=Newest%20Repo&query=$[0].name&color=purple&logo=github)  
-</div>
+ **Currently Online**: ![Dynamic Badge](https://img.shields.io/badge/dynamic/json?url=https://api.example.com/status/bulkhead187&label=Status&query=$.status&color=green&logo=circle)  **Lifetime Repositories**: ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187&label=Repositories&query=$.public_repos&color=blue&logo=github)  **Newest Repository**: ![Newest Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187/repos?sort=updated&per_page=1&label=Newest%20Repo&query=$[0].name&color=purple&logo=github)  **Lifetime Commits**: ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.example.com/commits/bulkhead187&label=Commits&query=$.total_commits&color=orange&logo=git)  
 
 
 # Hi, I'm bulkhead187 👋
