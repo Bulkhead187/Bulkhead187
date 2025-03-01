@@ -1,4 +1,4 @@
-<div align="left"> [Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187&label=Repositories&query=$.public_repos&color=blue&logo=github) ! ![Newest Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187/repos?sort=updated&per_page=1&label=Newest%20Repo&query=$[0].name&color=purple&logo=github) </div>
+[Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187&label=Repositories&query=$.public_repos&color=blue&logo=github) ! ![Newest Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187/repos?sort=updated&per_page=1&label=Newest%20Repo&query=$[0].name&color=purple&logo=github) </div>
 
 # Hi, I'm bulkhead187 👋
 
