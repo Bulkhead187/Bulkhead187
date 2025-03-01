@@ -1,3 +1,5 @@
+<div align="left"> ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187&label=Repositories&query=$.public_repos&color=blue&logo=github) ! ![Newest Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bulkhead187/repos?sort=updated&per_page=1&label=Newest%20Repo&query=$[0].name&color=purple&logo=github) </div>
+
 # Hi, I'm bulkhead187 👋
 
 I'm a developer passionate about **Cybersecurity** and **DevOps**. Always eager to take on new challenges and contribute to innovative projects! 🚀
@@ -63,8 +65,8 @@ I'm a developer with a strong focus on **Cybersecurity** and **DevOps**. I enjoy
 
 ## **Contact** 📫
 
-- **Email**: [bulkhead187@example.com](mailto:bulkhead187@example.com) 📧
-- **Website**: [bulkhead187.com](https://bulkhead187.com) 🌐
+- **Email**: [bulkhead.code@gmail.com](mailto:bulkhead.code@gmail.com) 📧
+- **Website**: [soon!](https://bulkhead187.com) 🌐
 - **LinkedIn**: [bulkhead187](https://linkedin.com/in/bulkhead187) 💼
 
 ---
