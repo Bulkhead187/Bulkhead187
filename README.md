@@ -2,47 +2,76 @@
 
 I'm a developer passionate about **Cybersecurity** and **DevOps**. Always eager to take on new challenges and contribute to innovative projects! 🚀
 
-## 🖥️ Languages & Technologies:
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) TypeScript
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Java
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) Lua
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) Bash
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) Next.js
+---
 
-## ⚙️ DevOps & System Administration:
-- ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) Windows
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Linux
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Docker
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) AWS
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) Azure
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=gitlab&logoColor=white) CI/CD
+## **About Me** 🌟
 
-## 🛠️ Tools & Practices:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub
-- ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) GitLab
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) VS Code
-- ![Metasploit](https://img.shields.io/badge/Metasploit-555555?style=flat-square&logo=metasploit&logoColor=white) Metasploit
-- ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=green) Nmap
-- ![Wireshark](https://img.shields.io/badge/Wireshark-1676A6?style=flat-square&logo=wireshark&logoColor=white) Wireshark
-- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-9E1B32?style=flat-square&logo=burpsuite&logoColor=white) Burp Suite
+I'm a developer with a strong focus on **Cybersecurity** and **DevOps**. I enjoy tackling complex problems, building secure systems, and automating workflows. When I'm not coding, I'm exploring new tools, learning about the latest tech trends, or contributing to open-source projects. 💻🔒
 
-## 🎶 What I'm listening to:
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=bulkhead187)](https://open.spotify.com/user/bulkhead187)
+---
 
-## 💬 GitHub Status:
-![GitHub Status](https://img.shields.io/github/followers/bulkhead187?label=GitHub%20Follow&style=social)
+## **Tech Stack** 🛠️
 
-## 📈 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulkhead187&show_icons=true&hide_title=true&count_private=true&theme=dark)
+### **Languages & Frameworks** 📚
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" title="Lua" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+</div>
 
-## 📫 Contact:
-- 💼 LinkedIn: [bulkhead187](https://linkedin.com/in/bulkhead187)
+### **DevOps & System Administration** 🖥️
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="CI/CD" title="CI/CD" />
+</div>
 
-## 🎯 Learning Goals:
-- Deepen my knowledge in **Machine Learning** and **AI**.
-- Improve **Cloud-Security** and **Network Security** skills.
-- Master **DevOps** Best Practices.
+### **Tools & Practices** 🔧
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=metasploit" alt="Metasploit" title="Metasploit" />
+  <img src="https://skillicons.dev/icons?i=nmap" alt="Nmap" title="Nmap" />
+  <img src="https://skillicons.dev/icons?i=wireshark" alt="Wireshark" title="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=burpsuite" alt="Burp Suite" title="Burp Suite" />
+</div>
+
+---
+
+## **Currently** 🕒
+
+- **Status**: <img src="https://img.shields.io/badge/Online-00FF00?style=flat-square&logo=circle&logoColor=white" alt="Online" /> **Live Status**
+- **Listening to**: [Spotify](https://open.spotify.com/user/bulkhead187) 🎶
+
+---
+
+## **GitHub Stats** 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulkhead187&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+---
+
+## **Contact** 📫
+
+- **Email**: [bulkhead187@example.com](mailto:bulkhead187@example.com) 📧
+- **Website**: [bulkhead187.com](https://bulkhead187.com) 🌐
+- **LinkedIn**: [bulkhead187](https://linkedin.com/in/bulkhead187) 💼
+
+---
+
+## **Learning Goals** 🎯
+
+- Deepen my knowledge in **Machine Learning** and **AI**. 🤖
+- Improve **Cloud-Security** and **Network Security** skills. 🔐
+- Master **DevOps** Best Practices. 🚀
+
